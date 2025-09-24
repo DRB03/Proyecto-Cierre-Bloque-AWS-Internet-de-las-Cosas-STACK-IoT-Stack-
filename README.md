@@ -16,3 +16,11 @@ Crear dashboards académicos en Grafana combinando datos de InfluxDB (IoT) y Pro
 Instancia EC2 Ubuntu Server recién creada (solo puerto 22 abierto).
 Laptop + Celular con Tailscale instalado.
 Cuenta Gmail personal (no institucional) para autenticación.
+
+# Pasos Principales necesarios para la Practica
+- [**Grafana.md**](Grafana.md) - Instalación y configuración de Grafana para visualización de datos
+- [**InfluxDB.md**](InfluxDB.md) - Configuración de la base de datos de series temporales InfluxDB
+- [**Prometheus.md**](Prometheus.md) - Instalación y configuración del sistema de monitoreo Prometheus
+
+# Prueba Final
+- [**Simulacion-de-Datos-IoT.md**](Simulacion-de-Datos-IoT.md) - Implementación del simulador de datos IoT en Python
