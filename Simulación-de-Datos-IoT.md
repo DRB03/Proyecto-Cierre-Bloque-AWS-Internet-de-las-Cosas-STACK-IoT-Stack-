@@ -17,7 +17,7 @@ Se accede a la interfaz web de Grafana y se crea un nuevo dashboard personalizad
 <img width="1919" height="927" alt="image" src="https://github.com/user-attachments/assets/bb2804b7-43b8-4658-99ce-cd259ece7d85" />
 <img width="1919" height="927" alt="image" src="https://github.com/user-attachments/assets/9c9f0d2e-3f3d-43c7-b965-a4b3a0d08a32" />
 
-### Ejecucion del Simulador y Prueba de actualizacion por medio de Dashboard 
+# Prube Final Ejecucion del Simulador y Prueba de actualizacion por medio de Dashboard 
 Se ejecuta un script Python (simulador) que genera datos de prueba y los envía a la base de datos InfluxDB. Simultáneamente, se verifica en el dashboard de Grafana que los paneles se actualicen automáticamente, confirmando que el flujo completo (simulador → InfluxDB → Grafana) funciona correctamente, tambien Adjunto video de evidencia en Loop:
 
 https://www.loom.com/share/9493e3389cbf446696893e9dc7d8c4d0?sid=cb32ec59-ee1e-4cb1-9abd-c8cd8dd2609b
