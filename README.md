@@ -23,4 +23,4 @@ Cuenta Gmail personal (no institucional) para autenticación.
 - [**Prometheus.md**](Prometheus.md) - Instalación y configuración del sistema de monitoreo Prometheus
 
 # Prueba Final
-- [**Simulacion-de-Datos-IoT.md**](Simulacion-de-Datos-IoT.md) - Implementación del simulador de datos IoT en Python
+- [**Simulación-de-Datos-IoT.md**](Simulación-de-Datos-IoT.md) - Implementación del simulador de datos IoT en Python
